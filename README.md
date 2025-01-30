@@ -31,7 +31,7 @@
   </a><!--  
   --><!-- Python for general-purpose programming --><a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
+      src="./public/assets/python-logo.svg"
       width="36"
       height="36"
       alt="Python Logo"
@@ -47,7 +47,7 @@
   </a><!--  
   --><!-- VS Code for code editing --><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"
+      src="./public/assets/visual-studio-logo.svg"
       width="36"
       height="36"
       alt="VS Code"
@@ -211,14 +211,6 @@
       width="36"
       height="36"
       alt="AWS Logo"
-    />
-  </a><!--  
-  --><!-- Express for Node.js web framework --><a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
-      width="36"
-      height="36"
-      alt="Express Logo"
     />
   </a>
 </p>
