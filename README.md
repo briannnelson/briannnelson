@@ -10,9 +10,8 @@
 
   # I'm Brian Nelson
 
-### I'm a Front End Software Engineer specializing in JavaScript technologies, including React, TypeScript, Next.js, and Vite.js.
+### A Front End Software Engineer specializing in JavaScript technologies and frameworks, including React, TypeScript, Next.js, and Vite.js.
 </div>
-
 
 * 📍  Based in Fort Lauderdale, FL
 * 💼  See my portfolio at my [LinkedIn](http://www.linkedin.com/in/briannnelson)  
