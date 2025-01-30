@@ -9,11 +9,14 @@
   </a>
 
   # I'm Brian Nelson
+
+**I'm a Front End Software Engineer specializing in JavaScript technologies, including React, TypeScript, Next.js, and Vite.js.**
 </div>
 
-* 🌍  Based in Fort Lauderdale, FL
-* 🖥️  See my portfolio at my [LinkedIn](http://www.linkedin.com/in/briannnelson)  
-* ✉️  You can contact me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
+
+* 📍  Based in Fort Lauderdale, FL
+* 💼  See my portfolio at my [LinkedIn](http://www.linkedin.com/in/briannnelson)  
+* ✉️  Contact me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
 
 ### Skills
 
