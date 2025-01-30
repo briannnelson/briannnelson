@@ -10,7 +10,7 @@
 
   # I'm Brian Nelson
 
-**I'm a Front End Software Engineer specializing in JavaScript technologies, including React, TypeScript, Next.js, and Vite.js.**
+### I'm a Front End Software Engineer specializing in JavaScript technologies, including React, TypeScript, Next.js, and Vite.js.
 </div>
 
 
