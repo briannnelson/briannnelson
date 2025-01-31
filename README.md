@@ -321,3 +321,5 @@
     </picture>
   </a>
 </p>
+
+Like it? BTC <a href="bitcoin:3KNtUiFRS344JYYgZcK4WQpPy7ux3yZttn">3KNtUiFRS344JYYgZcK4WQpPy7ux3yZttn</a>
