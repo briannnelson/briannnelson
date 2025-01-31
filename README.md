@@ -17,11 +17,9 @@
 * 💼  See my portfolio at my [LinkedIn](http://www.linkedin.com/in/briannnelson)  
 * ✉️  Contact me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
 
-<div align="center">
-
 ## Skills
 
-<p align="center">
+<p align="left">
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
@@ -245,16 +243,16 @@
 
 ## Socials
 
-<p align="center">
+<p align="left">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/briannnelson" target="_blank" rel="noreferrer">
     <picture>
       <source
-        srcset="./public/assets/linkedin-dark-logo.svg"
+        srcset="./public/assets/linkedin-light-logo.svg"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="./public/assets/linkedin-light-logo.svg"
+        srcset="./public/assets/linkedin-dark-logo.svg"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img
@@ -269,11 +267,11 @@
   <a href="https://github.com/briannnelson" target="_blank" rel="noreferrer">
     <picture>
       <source
-        srcset="./public/assets/github-dark-logo.svg"
+        srcset="./public/assets/github-light-logo.svg"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="./public/assets/github-light-logo.svg"
+        srcset="./public/assets/github-dark-logo.svg"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img
@@ -288,11 +286,11 @@
   <a href="mailto:brian8nelson@gmail.com" target="_blank" rel="noreferrer">
     <picture>
       <source
-        srcset="./public/assets/email-dark-icon.svg"
+        srcset="./public/assets/email-light-icon.svg"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="./public/assets/email-light-icon.svg"
+        srcset="./public/assets/email-dark-icon.svg"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img
