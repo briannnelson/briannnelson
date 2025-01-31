@@ -17,9 +17,11 @@
 * 💼  See my portfolio at my [LinkedIn](http://www.linkedin.com/in/briannnelson)  
 * ✉️  Contact me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
 
-### Skills
+<div align="center">
 
-<p align="left">
+## Skills
+
+<p align="center">
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
@@ -238,5 +240,67 @@
       height="36"
       alt="AWS Logo"
     />
+  </a>
+</p>
+
+## Socials
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/briannnelson" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        srcset="./public/assets/linkedin-dark-logo.svg"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="./public/assets/linkedin-light-logo.svg"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        src="./public/assets/linkedin-light-logo.svg"
+        width="36"
+        height="36"
+        alt="LinkedIn Logo"
+      />
+    </picture>
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/briannnelson" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        srcset="./public/assets/github-dark-logo.svg"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="./public/assets/github-light-logo.svg"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        src="./public/assets/github-light-logo.svg"
+        width="36"
+        height="36"
+        alt="GitHub Logo"
+      />
+    </picture>
+  </a>
+  <!-- Email -->
+  <a href="mailto:brian8nelson@gmail.com" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        srcset="./public/assets/email-dark-icon.svg"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="./public/assets/email-light-icon.svg"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        src="./public/assets/email-light-icon.svg"
+        width="36"
+        height="36"
+        alt="Email Icon"
+      />
+    </picture>
   </a>
 </p>
