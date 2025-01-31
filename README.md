@@ -10,10 +10,10 @@
 
   # I'm Brian Nelson
 
-### A Front End Software Engineer specializing in JavaScript technologies and frameworks, including React, TypeScript, Next.js, and Vite.js.
+### A Front End Software Engineer specializing in JavaScript technologies including React, TypeScript, Next.js, and Vite.js.
 </div>
 
-* 📍  Based in Fort Lauderdale, FL
+* 🌎  Based in Fort Lauderdale, FL
 * 💼  See my portfolio at my [LinkedIn](http://www.linkedin.com/in/briannnelson)  
 * ✉️  Contact me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
 
@@ -298,6 +298,25 @@
         width="36"
         height="36"
         alt="Email Icon"
+      />
+    </picture>
+  </a>
+  <!-- Twitter -->
+  <a href="https://twitter.com/briannnelson" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        srcset="./public/assets/x-twitter-light-logo.svg"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="./public/assets/x-twitter-light-logo.svg"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        src="./public/assets/x-twitter-light-logo.svg"
+        width="36"
+        height="36"
+        alt="Twitter (X) Logo"
       />
     </picture>
   </a>
