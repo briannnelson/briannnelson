@@ -28,7 +28,7 @@
       height="36"
       alt="Git Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img
@@ -37,7 +37,7 @@
       height="36"
       alt="JavaScript Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img
@@ -46,7 +46,7 @@
       height="36"
       alt="Python Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
@@ -55,7 +55,7 @@
       height="36"
       alt="TypeScript Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img
@@ -64,7 +64,7 @@
       height="36"
       alt="VS Code"
     />
-  </a> 
+  </a>&nbsp;&nbsp; 
   <!-- HTML5 -->
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img
@@ -73,7 +73,7 @@
       height="36"
       alt="HTML5 Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- CSS3 -->
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
     <img
@@ -82,7 +82,7 @@
       height="36"
       alt="CSS3 Logo"
     />
-  </a> 
+  </a>&nbsp;&nbsp; 
   <!-- Sass -->
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img
@@ -91,7 +91,7 @@
       height="36"
       alt="Sass Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img
@@ -100,7 +100,7 @@
       height="36"
       alt="Bootstrap Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- jQuery -->
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
     <img
@@ -109,7 +109,7 @@
       height="36"
       alt="jQuery Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
@@ -118,7 +118,7 @@
       height="36"
       alt="React.js Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- Next.js -->
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
     <img
@@ -127,7 +127,7 @@
       height="36"
       alt="Next.js Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- Redux -->
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img
@@ -136,7 +136,7 @@
       height="36"
       alt="Redux Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- Node.js -->
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img
@@ -145,7 +145,7 @@
       height="36"
       alt="Node.js Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- NPM -->
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
     <img
@@ -154,7 +154,7 @@
       height="36"
       alt="NPM Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- Vite -->
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img
@@ -163,7 +163,7 @@
       height="36"
       alt="Vite.js Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- Sentry -->
   <a href="https://sentry.io/" target="_blank" rel="noreferrer">
     <img
@@ -172,7 +172,7 @@
       height="36"
       alt="Sentry Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- WordPress -->
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
     <img
@@ -181,7 +181,7 @@
       height="36"
       alt="WordPress Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
@@ -190,7 +190,7 @@
       height="36"
       alt="MySQL Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- Microsoft Azure --><a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
     <img
       src="./public/assets/azure-logo.svg"
@@ -198,7 +198,7 @@
       height="36"
       alt="Microsoft Azure Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- Auth0 --><a href="https://auth0.com/" target="_blank" rel="noreferrer">
     <img
       src="./public/assets/auth0-logo.svg"
@@ -206,7 +206,7 @@
       height="36"
       alt="Auth0 Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- Adobe Illustrator --><a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
     <img
       src="./public/assets/adobe-illustrator-logo.svg"
@@ -214,7 +214,7 @@
       height="36"
       alt="Adobe Illustrator Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- Adobe Photoshop --><a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img
       src="./public/assets/adobe-photoshop-logo.svg"
@@ -222,7 +222,7 @@
       height="36"
       alt="Adobe Photoshop Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- Adobe XD --><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
     <img
       src="./public/assets/adobe-xd-logo.svg"
@@ -230,7 +230,7 @@
       height="36"
       alt="Adobe XD Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- AWS --><a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
       src="./public/assets/aws-logo.svg"
@@ -262,7 +262,7 @@
         alt="LinkedIn Logo"
       />
     </picture>
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- GitHub -->
   <a href="https://github.com/briannnelson" target="_blank" rel="noreferrer">
     <picture>
@@ -281,7 +281,7 @@
         alt="GitHub Logo"
       />
     </picture>
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- Email -->
   <a href="mailto:brian8nelson@gmail.com" target="_blank" rel="noreferrer">
     <picture>
@@ -300,7 +300,7 @@
         alt="Email Icon"
       />
     </picture>
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- Twitter -->
   <a href="https://twitter.com/briannnelson" target="_blank" rel="noreferrer">
     <picture>
