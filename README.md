@@ -122,7 +122,7 @@
   <!-- Next.js -->
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
     <img
-      src="./public/assets/nextjs-logo.svg"
+      src="./public/assets/next-js-logo.svg"
       width="36"
       height="36"
       alt="Next.js Logo"
