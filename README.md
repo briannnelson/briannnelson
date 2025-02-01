@@ -14,7 +14,7 @@
 </div>
 
 * 🌎  Based in Fort Lauderdale, FL
-* 💼  See my portfolio at my [LinkedIn](http://www.linkedin.com/in/briannnelson)  
+* 💼  See my portfolio at my [LinkedIn](http://www.linkedin.com/in/briannnelson)
 * ✉️  Contact me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
 
 ## Skills
@@ -362,7 +362,7 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="./public/assets/x-twitter-light-logo.svg"
+        srcset="./public/assets/x-twitter-dark-logo.svg"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img
