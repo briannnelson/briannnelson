@@ -59,7 +59,7 @@
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img
-      src="./public/assets/visual-studio-logo.svg"
+      src="./public/assets/visual-studio-code-logo.svg"
       width="36"
       height="36"
       alt="VS Code"
