@@ -238,7 +238,79 @@
       height="36"
       alt="AWS Logo"
     />
-  </a>
+  </a>&nbsp;&nbsp;
+    <!-- Visual Studio -->
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/visual-studio-logo.svg"
+      width="36"
+      height="36"
+      alt="Visual Studio Logo"
+    />
+  </a>&nbsp;&nbsp;
+  <!-- PHP -->
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/php-logo.svg"
+      width="36"
+      height="36"
+      alt="PHP Logo"
+    />
+  </a>&nbsp;&nbsp;
+  <!-- Lottie -->
+  <a href="https://airbnb.io/lottie/" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/lottie-logo.svg"
+      width="36"
+      height="36"
+      alt="Lottie Logo"
+    />
+  </a>&nbsp;&nbsp;
+  <!-- Axios -->
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/axios-logo.svg"
+      width="36"
+      height="36"
+      alt="Axios Logo"
+    />
+  </a>&nbsp;&nbsp;
+  <!-- Google Lighthouse -->
+  <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/google-lighthouse-logo.svg"
+      width="36"
+      height="36"
+      alt="Google Lighthouse Logo"
+    />
+  </a>&nbsp;&nbsp;
+  <!-- Express.js -->
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/express-js-logo.svg"
+      width="36"
+      height="36"
+      alt="Express.js Logo"
+    />
+  </a>&nbsp;&nbsp;
+  <!-- Google Cloud Platform -->
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/google-cloud-platform-logo.svg"
+      width="36"
+      height="36"
+      alt="Google Cloud Platform Logo"
+    />
+  </a>&nbsp;&nbsp;
+  <!-- Vercel -->
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/vercel-logo.svg"
+      width="36"
+      height="36"
+      alt="Vercel Logo"
+    />
+  </a>&nbsp;&nbsp;
 </p>
 
 ## Socials
