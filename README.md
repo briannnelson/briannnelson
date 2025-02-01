@@ -311,6 +311,33 @@
       alt="Vercel Logo"
     />
   </a>&nbsp;&nbsp;
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/postman-logo.svg"
+      width="36"
+      height="36"
+      alt="Postman Logo"
+    />
+  </a>&nbsp;&nbsp;
+  <!-- Zapier -->
+  <a href="https://zapier.com/" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/zapier-logo.svg"
+      width="36"
+      height="36"
+      alt="Zapier Logo"
+    />
+  </a>&nbsp;&nbsp;
+  <!-- Capacitor -->
+  <a href="https://capacitorjs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/capacitor-logo.svg"
+      width="36"
+      height="36"
+      alt="Capacitor Logo"
+    />
+  </a>
 </p>
 
 ## Socials
