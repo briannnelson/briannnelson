@@ -263,25 +263,6 @@
       />
     </picture>
   </a>&nbsp;&nbsp;
-  <!-- GitHub -->
-  <a href="https://github.com/briannnelson" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        srcset="./public/assets/github-light-logo.svg"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="./public/assets/github-dark-logo.svg"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img
-        src="./public/assets/github-light-logo.svg"
-        width="36"
-        height="36"
-        alt="GitHub Logo"
-      />
-    </picture>
-  </a>&nbsp;&nbsp;
   <!-- Email -->
   <a href="mailto:brian8nelson@gmail.com" target="_blank" rel="noreferrer">
     <picture>
@@ -319,7 +300,28 @@
         alt="Twitter (X) Logo"
       />
     </picture>
-  </a>
+  </a>&nbsp;&nbsp;
+  <!-- GitHub -->
+  <a href="https://github.com/briannnelson" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        srcset="./public/assets/github-light-logo.svg"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="./public/assets/github-dark-logo.svg"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        src="./public/assets/github-light-logo.svg"
+        width="36"
+        height="36"
+        alt="GitHub Logo"
+      />
+    </picture>
+  </a>&nbsp;&nbsp;
 </p>
 
-Like it? BTC <a href="bitcoin:3KNtUiFRS344JYYgZcK4WQpPy7ux3yZttn">3KNtUiFRS344JYYgZcK4WQpPy7ux3yZttn</a>
+<p align="left">
+  Like it? BTC 3KNtUiFRS344JYYgZcK4WQpPy7ux3yZttn
+</p>
