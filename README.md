@@ -348,6 +348,15 @@
       alt="Adobe XD Logo"
     />
   </a>&nbsp;&nbsp;
+  <!-- WordPress -->
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/wordpress-logo.svg"
+      width="36"
+      height="36"
+      alt="WordPress Logo"
+    />
+  </a>&nbsp;&nbsp;
 </p>
 
 ## Socials
@@ -428,15 +437,6 @@
         alt="GitHub Logo"
       />
     </picture>
-  </a>&nbsp;&nbsp;
-  <!-- WordPress -->
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img
-      src="./public/assets/wordpress-logo.svg"
-      width="36"
-      height="36"
-      alt="WordPress Logo"
-    />
   </a>&nbsp;&nbsp;
 </p>
 
