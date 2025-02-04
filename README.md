@@ -143,6 +143,42 @@
     alt="Git Logo"
   />
 </a>&nbsp;&nbsp;
+<a href="https://github.com" target="_blank" rel="noreferrer">
+  <picture>
+    <source
+      srcset="./public/assets/github-light-logo.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="./public/assets/github-dark-logo.svg"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="./public/assets/github-light-logo.svg"
+      width="36"
+      height="36"
+      alt="GitHub Logo"
+    />
+  </picture>
+</a>&nbsp;&nbsp;
+<!-- Gitkraken -->
+<a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer">
+  <img
+    src="./public/assets/gitkracken-logo.svg"
+    width="36"
+    height="36"
+    alt="Git Logo"
+  />
+</a>&nbsp;&nbsp;
+<!-- Gitlens -->
+<a href="https://gitlens.amod.io/" target="_blank" rel="noreferrer">
+  <img
+    src="./public/assets/gitlens-logo.png"
+    width="36"
+    height="36"
+    alt="Git Logo"
+  />
+</a>&nbsp;&nbsp;
 <!-- NPM -->
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
   <img
