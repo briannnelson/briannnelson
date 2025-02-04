@@ -19,7 +19,7 @@
 * 📄  Here is my updated [Resume](https://drive.google.com/file/d/1udiO_PHZJjLbHSN67tn-1wR2BKcZU-P3/view)
 * ✉️  Contact me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <table>
 <tr>
@@ -104,7 +104,7 @@
   &nbsp;&nbsp;
   <!-- Gitkraken -->
   <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer">
-    <img src="./public/assets/gitkracken-logo.svg" width="36" height="36" alt="GitKracken Logo" />
+    <img src="./public/assets/gitkraken-logo.svg" width="36" height="36" alt="GitKraken Logo" />
   </a>
   &nbsp;&nbsp;
   <!-- Gitlens -->
@@ -256,7 +256,7 @@
 </tr>
 </table>
 
-## Socials
+## 🔗 Socials
 
 <p>
   <!-- LinkedIn -->
