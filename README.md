@@ -2,8 +2,8 @@
   <a>
     <img
       src="./public/assets/waving-hand.gif"
-      width="54"
-      height="54"
+      width="32"
+      height="32"
       alt="Waving Hand"
     />
   </a>
