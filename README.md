@@ -16,6 +16,7 @@
 
 * 🌎  Based in [Fort Lauderdale, FL](https://maps.app.goo.gl/wE4wRukRF5hKqtkh6)
 * 💼  See my portfolio at my [LinkedIn](http://www.linkedin.com/in/briannnelson)
+* 📃  Here is my updated [Resume](https://drive.google.com/file/d/1udiO_PHZJjLbHSN67tn-1wR2BKcZU-P3/view)
 * ✉️  Contact me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
 
 ## Tech Stack
@@ -439,6 +440,8 @@
     </picture>
   </a>&nbsp;&nbsp;
 </p>
+
+<br/>
 
 <p align="left">
   Like it? BTC 3KNtUiFRS344JYYgZcK4WQpPy7ux3yZttn
