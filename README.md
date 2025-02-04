@@ -14,13 +14,10 @@
   <br>
 </div>
 
-🌎  Based in [Fort Lauderdale, FL](https://maps.app.goo.gl/wE4wRukRF5hKqtkh6)
-<br/>
-💼  See my portfolio at my [LinkedIn](http://www.linkedin.com/in/briannnelson)
-<br/>
-📄  Here is my updated [Resume](https://drive.google.com/file/d/1udiO_PHZJjLbHSN67tn-1wR2BKcZU-P3/view)
-<br/>
-✉️  Contact me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
+* 🌎  Based in [Fort Lauderdale, FL](https://maps.app.goo.gl/wE4wRukRF5hKqtkh6)
+* 💼  See my portfolio at my [LinkedIn](http://www.linkedin.com/in/briannnelson)
+* 📄  Here is my updated [Resume](https://drive.google.com/file/d/1udiO_PHZJjLbHSN67tn-1wR2BKcZU-P3/view)
+* ✉️  Contact me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
 
 ## Tech Stack
 
