@@ -1,18 +1,6 @@
-<div align="center" name="top">
-  <a>
-    <img
-      src="./public/assets/waving-hand.gif"
-      width="37"
-      height="37"
-      alt="Waving Hand"
-    />
-  </a>
+# <img src="./public/assets/waving-hand.gif" width="28" height="28" alt="Waving Hand" name="top"/> I'm Brian Nelson
 
-  # I'm Brian Nelson
-
-  ### A Software Engineer
-  <br>
-</div>
+### A Software Engineer
 
 * 🌎  Based in [Fort Lauderdale, FL](https://maps.app.goo.gl/wE4wRukRF5hKqtkh6)
 * 💼  See my portfolio at my [LinkedIn](http://www.linkedin.com/in/briannnelson)
