@@ -144,6 +144,15 @@
       alt="MySQL Logo"
     />
   </a>&nbsp;&nbsp;
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/postman-logo.svg"
+      width="36"
+      height="36"
+      alt="Postman Logo"
+    />
+  </a>&nbsp;&nbsp;
 </p>
 
 ### Frameworks
@@ -197,19 +206,40 @@
       alt="Google Cloud Platform Logo"
     />
   </a>&nbsp;&nbsp;
+  <!-- Vercel -->
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/vercel-logo.svg"
+      width="36"
+      height="36"
+      alt="Vercel Logo"
+    />
+  </a>&nbsp;&nbsp;
 </p>
+
+### Version Ctrl. & Package Mgmt.
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img
+    src="./public/assets/git-logo.svg"
+    width="36"
+    height="36"
+    alt="Git Logo"
+  />
+</a>&nbsp;&nbsp;
+<!-- NPM -->
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+  <img
+    src="./public/assets/npm-logo.svg"
+    width="36"
+    height="36"
+    alt="NPM Logo"
+  />
+</a>&nbsp;&nbsp;
+
 
 ### Libraries
 <p align="left">
-  <!-- Redux -->
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img
-      src="./public/assets/redux-logo.svg"
-      width="36"
-      height="36"
-      alt="Redux Logo"
-    />
-  </a>&nbsp;&nbsp;
   <!-- Axios -->
   <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
     <img
@@ -219,22 +249,13 @@
       alt="Axios Logo"
     />
   </a>&nbsp;&nbsp;
-  <!-- Lottie -->
-  <a href="https://airbnb.io/lottie/" target="_blank" rel="noreferrer">
+  <!-- Redux -->
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img
-      src="./public/assets/lottie-logo.svg"
+      src="./public/assets/redux-logo.svg"
       width="36"
       height="36"
-      alt="Lottie Logo"
-    />
-  </a>&nbsp;&nbsp;
-  <!-- Auth0 -->
-  <a href="https://auth0.com/" target="_blank" rel="noreferrer">
-    <img
-      src="./public/assets/auth0-logo.svg"
-      width="36"
-      height="36"
-      alt="Auth0 Logo"
+      alt="Redux Logo"
     />
   </a>&nbsp;&nbsp;
   <!-- Sentry -->
@@ -246,6 +267,15 @@
       alt="Sentry Logo"
     />
   </a>&nbsp;&nbsp;
+  <!-- Auth0 -->
+  <a href="https://auth0.com/" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/auth0-logo.svg"
+      width="36"
+      height="36"
+      alt="Auth0 Logo"
+    />
+  </a>&nbsp;&nbsp;
   <!-- Capacitor -->
   <a href="https://capacitorjs.com/" target="_blank" rel="noreferrer">
     <img
@@ -255,55 +285,19 @@
       alt="Capacitor Logo"
     />
   </a>&nbsp;&nbsp;
+  <!-- Lottie -->
+  <a href="https://airbnb.io/lottie/" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/lottie-logo.svg"
+      width="36"
+      height="36"
+      alt="Lottie Logo"
+    />
+  </a>&nbsp;&nbsp;
 </p>
 
 ### Tools
 <p align="left">
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="./public/assets/git-logo.svg"
-      width="36"
-      height="36"
-      alt="Git Logo"
-    />
-  </a>&nbsp;&nbsp;
-  <!-- NPM -->
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="./public/assets/npm-logo.svg"
-      width="36"
-      height="36"
-      alt="NPM Logo"
-    />
-  </a>&nbsp;&nbsp;
-  <!-- Postman -->
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img
-      src="./public/assets/postman-logo.svg"
-      width="36"
-      height="36"
-      alt="Postman Logo"
-    />
-  </a>&nbsp;&nbsp;
-  <!-- Zapier -->
-  <a href="https://zapier.com/" target="_blank" rel="noreferrer">
-    <img
-      src="./public/assets/zapier-logo.svg"
-      width="36"
-      height="36"
-      alt="Zapier Logo"
-    />
-  </a>&nbsp;&nbsp;
-  <!-- Google Lighthouse -->
-  <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noreferrer">
-    <img
-      src="./public/assets/google-lighthouse-logo.svg"
-      width="36"
-      height="36"
-      alt="Google Lighthouse Logo"
-    />
-  </a>&nbsp;&nbsp;
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img
@@ -356,6 +350,24 @@
       width="36"
       height="36"
       alt="WordPress Logo"
+    />
+  </a>&nbsp;&nbsp;
+  <!-- Zapier -->
+  <a href="https://zapier.com/" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/zapier-logo.svg"
+      width="36"
+      height="36"
+      alt="Zapier Logo"
+    />
+  </a>&nbsp;&nbsp;
+  <!-- Google Lighthouse -->
+  <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/google-lighthouse-logo.svg"
+      width="36"
+      height="36"
+      alt="Google Lighthouse Logo"
     />
   </a>&nbsp;&nbsp;
 </p>
