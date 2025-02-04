@@ -167,7 +167,7 @@
     src="./public/assets/gitkracken-logo.svg"
     width="36"
     height="36"
-    alt="Git Logo"
+    alt="GitKracken Logo"
   />
 </a>&nbsp;&nbsp;
 <!-- Gitlens -->
@@ -176,7 +176,7 @@
     src="./public/assets/gitlens-logo.png"
     width="36"
     height="36"
-    alt="Git Logo"
+    alt="Gitlens Logo"
   />
 </a>&nbsp;&nbsp;
 <!-- NPM -->
