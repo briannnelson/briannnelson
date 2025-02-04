@@ -153,78 +153,60 @@
   />
 </a>&nbsp;&nbsp;
 
-### Tools
+### Libraries
 <p align="left">
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <!-- Axios -->
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
     <img
-      src="./public/assets/visual-studio-code-logo.svg"
+      src="./public/assets/axios-logo.svg"
       width="36"
       height="36"
-      alt="VS Code"
+      alt="Axios Logo"
     />
   </a>&nbsp;&nbsp;
-  <!-- Visual Studio -->
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+  <!-- Redux -->
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img
-      src="./public/assets/visual-studio-logo.svg"
+      src="./public/assets/redux-logo.svg"
       width="36"
       height="36"
-      alt="Visual Studio Logo"
+      alt="Redux Logo"
     />
   </a>&nbsp;&nbsp;
-  <!-- Adobe Photoshop -->
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+  <!-- Sentry -->
+  <a href="https://sentry.io/" target="_blank" rel="noreferrer">
     <img
-      src="./public/assets/adobe-photoshop-logo.svg"
+      src="./public/assets/sentry-logo.svg"
       width="36"
       height="36"
-      alt="Adobe Photoshop Logo"
+      alt="Sentry Logo"
     />
   </a>&nbsp;&nbsp;
-  <!-- Adobe Illustrator -->
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
+  <!-- Auth0 -->
+  <a href="https://auth0.com/" target="_blank" rel="noreferrer">
     <img
-      src="./public/assets/adobe-illustrator-logo.svg"
+      src="./public/assets/auth0-logo.svg"
       width="36"
       height="36"
-      alt="Adobe Illustrator Logo"
+      alt="Auth0 Logo"
     />
   </a>&nbsp;&nbsp;
-  <!-- Adobe XD -->
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+  <!-- Capacitor -->
+  <a href="https://capacitorjs.com/" target="_blank" rel="noreferrer">
     <img
-      src="./public/assets/adobe-xd-logo.svg"
+      src="./public/assets/capacitor-logo.svg"
       width="36"
       height="36"
-      alt="Adobe XD Logo"
+      alt="Capacitor Logo"
     />
   </a>&nbsp;&nbsp;
-  <!-- WordPress -->
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+  <!-- Lottie -->
+  <a href="https://airbnb.io/lottie/" target="_blank" rel="noreferrer">
     <img
-      src="./public/assets/wordpress-logo.svg"
+      src="./public/assets/lottie-logo.svg"
       width="36"
       height="36"
-      alt="WordPress Logo"
-    />
-  </a>&nbsp;&nbsp;
-  <!-- Zapier -->
-  <a href="https://zapier.com/" target="_blank" rel="noreferrer">
-    <img
-      src="./public/assets/zapier-logo.svg"
-      width="36"
-      height="36"
-      alt="Zapier Logo"
-    />
-  </a>&nbsp;&nbsp;
-  <!-- Google Lighthouse -->
-  <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noreferrer">
-    <img
-      src="./public/assets/google-lighthouse-logo.svg"
-      width="36"
-      height="36"
-      alt="Google Lighthouse Logo"
+      alt="Lottie Logo"
     />
   </a>&nbsp;&nbsp;
 </p>
@@ -321,63 +303,82 @@
   </a>&nbsp;&nbsp;
 </p>
 
-### Libraries
+### Tools
 <p align="left">
-  <!-- Axios -->
-  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img
-      src="./public/assets/axios-logo.svg"
+      src="./public/assets/visual-studio-code-logo.svg"
       width="36"
       height="36"
-      alt="Axios Logo"
+      alt="VS Code"
     />
   </a>&nbsp;&nbsp;
-  <!-- Redux -->
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <!-- Visual Studio -->
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
     <img
-      src="./public/assets/redux-logo.svg"
+      src="./public/assets/visual-studio-logo.svg"
       width="36"
       height="36"
-      alt="Redux Logo"
+      alt="Visual Studio Logo"
     />
   </a>&nbsp;&nbsp;
-  <!-- Sentry -->
-  <a href="https://sentry.io/" target="_blank" rel="noreferrer">
+  <!-- Adobe Photoshop -->
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img
-      src="./public/assets/sentry-logo.svg"
+      src="./public/assets/adobe-photoshop-logo.svg"
       width="36"
       height="36"
-      alt="Sentry Logo"
+      alt="Adobe Photoshop Logo"
     />
   </a>&nbsp;&nbsp;
-  <!-- Auth0 -->
-  <a href="https://auth0.com/" target="_blank" rel="noreferrer">
+  <!-- Adobe Illustrator -->
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
     <img
-      src="./public/assets/auth0-logo.svg"
+      src="./public/assets/adobe-illustrator-logo.svg"
       width="36"
       height="36"
-      alt="Auth0 Logo"
+      alt="Adobe Illustrator Logo"
     />
   </a>&nbsp;&nbsp;
-  <!-- Capacitor -->
-  <a href="https://capacitorjs.com/" target="_blank" rel="noreferrer">
+  <!-- Adobe XD -->
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
     <img
-      src="./public/assets/capacitor-logo.svg"
+      src="./public/assets/adobe-xd-logo.svg"
       width="36"
       height="36"
-      alt="Capacitor Logo"
+      alt="Adobe XD Logo"
     />
   </a>&nbsp;&nbsp;
-  <!-- Lottie -->
-  <a href="https://airbnb.io/lottie/" target="_blank" rel="noreferrer">
+  <!-- WordPress -->
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
     <img
-      src="./public/assets/lottie-logo.svg"
+      src="./public/assets/wordpress-logo.svg"
       width="36"
       height="36"
-      alt="Lottie Logo"
+      alt="WordPress Logo"
+    />
+  </a>&nbsp;&nbsp;
+  <!-- Zapier -->
+  <a href="https://zapier.com/" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/zapier-logo.svg"
+      width="36"
+      height="36"
+      alt="Zapier Logo"
+    />
+  </a>&nbsp;&nbsp;
+  <!-- Google Lighthouse -->
+  <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noreferrer">
+    <img
+      src="./public/assets/google-lighthouse-logo.svg"
+      width="36"
+      height="36"
+      alt="Google Lighthouse Logo"
     />
   </a>&nbsp;&nbsp;
 </p>
+
 </td>
 </tr>
 </table>
