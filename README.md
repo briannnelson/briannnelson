@@ -28,7 +28,7 @@
 
 <p>
 
-  * ### Front End
+  * **Front End**
 
     <!-- JavaScript -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -65,7 +65,7 @@
       <img src="./public/assets/jquery-logo.svg" width="36" height="36" alt="jQuery Logo"/>
     </a>
 
-  * ### Cloud
+  * **Cloud**
 
     <!-- AWS -->
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -87,7 +87,7 @@
       <img src="./public/assets/vercel-logo.svg" width="36" height="36" alt="Vercel Logo" />
     </a>
 
-  * ### Version Ctrl. & Package Mgmt.
+  * **Version Ctrl. & Package Mgmt.**
 
     <!-- Git -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -117,7 +117,7 @@
       <img src="./public/assets/npm-logo.svg" width="36" height="36" alt="NPM Logo" />
     </a>
 
-  * ### Libraries
+  * **Libraries**
 
     <!-- Axios -->
     <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
@@ -157,7 +157,7 @@
 
 <p>
 
-  * ### Back End
+  * **Back End**
 
     <!-- Node.js -->
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
@@ -190,7 +190,7 @@
     </a>
     &nbsp;&nbsp;
 
-  * ### Frameworks
+  * **Frameworks**
 
     <!-- Next.js -->
     <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
@@ -208,7 +208,7 @@
     </a>
     &nbsp;&nbsp;
 
-  * ### Tools
+  * **Tools**
 
     <!-- VS Code -->
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
