@@ -1,6 +1,12 @@
-# <img src="./public/assets/waving-hand.gif" width="28" height="28" alt="Waving Hand" name="top"/> I'm Brian Nelson
+<img src="./public/assets/header-readme-github.png" width="100%" name="top" />
+
+<div align="center">
+
+# <img src="./public/assets/waving-hand.gif" width="28" height="28" alt="Waving Hand" /> I'm Brian Nelson
 
 ### A Software Engineer
+</div>
+<br>
 
 * 🌎  Based in [Fort Lauderdale, FL](https://maps.app.goo.gl/wE4wRukRF5hKqtkh6)
 * 💼  See my portfolio at my [LinkedIn](http://www.linkedin.com/in/briannnelson)
@@ -138,7 +144,7 @@
     </a>
   </p>
 
-<br/>
+<br>
 
 <!-- Right Column -->
 <td valign="top" width="50%">
@@ -284,6 +290,6 @@
   </a>
 </p>
 
-<br/>
+<br>
 
 _**Like it?** BTC 3KNtUiFRS344JYYgZcK4WQpPy7ux3yZttn_
