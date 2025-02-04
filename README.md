@@ -262,83 +262,37 @@
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/briannnelson" target="_blank" rel="noreferrer">
     <picture>
-      <source
-        srcset="./public/assets/linkedin-light-logo.svg"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="./public/assets/linkedin-dark-logo.svg"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img
-        src="./public/assets/linkedin-light-logo.svg"
-        width="36"
-        height="36"
-        alt="LinkedIn Logo"
-      />
+      <source srcset="./public/assets/linkedin-light-logo.svg" media="(prefers-color-scheme: dark)" />
+      <source srcset="./public/assets/linkedin-dark-logo.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="./public/assets/linkedin-light-logo.svg" width="36" height="36" alt="LinkedIn Logo" />
     </picture>
   </a>&nbsp;&nbsp;
   <!-- Email -->
   <a href="mailto:brian8nelson@gmail.com" target="_blank" rel="noreferrer">
     <picture>
-      <source
-        srcset="./public/assets/email-light-icon.svg"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="./public/assets/email-dark-icon.svg"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img
-        src="./public/assets/email-light-icon.svg"
-        width="36"
-        height="36"
-        alt="Email Icon"
-      />
+      <source srcset="./public/assets/email-light-icon.svg" media="(prefers-color-scheme: dark)" />
+      <source srcset="./public/assets/email-dark-icon.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="./public/assets/email-light-icon.svg" width="36" height="36" alt="Email Icon" />
     </picture>
   </a>&nbsp;&nbsp;
   <!-- Twitter -->
   <a href="https://twitter.com/briannnelson" target="_blank" rel="noreferrer">
     <picture>
-      <source
-        srcset="./public/assets/x-twitter-light-logo.svg"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="./public/assets/x-twitter-dark-logo.svg"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img
-        src="./public/assets/x-twitter-light-logo.svg"
-        width="36"
-        height="36"
-        alt="Twitter (X) Logo"
-      />
+      <source srcset="./public/assets/x-twitter-light-logo.svg" media="(prefers-color-scheme: dark)" />
+      <source srcset="./public/assets/x-twitter-dark-logo.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="./public/assets/x-twitter-light-logo.svg" width="36" height="36" alt="Twitter (X) Logo" />
     </picture>
   </a>&nbsp;&nbsp;
   <!-- GitHub -->
   <a href="https://github.com/briannnelson" target="_blank" rel="noreferrer">
     <picture>
-      <source
-        srcset="./public/assets/github-light-logo.svg"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="./public/assets/github-dark-logo.svg"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img
-        src="./public/assets/github-light-logo.svg"
-        width="36"
-        height="36"
-        alt="GitHub Logo"
-      />
+      <source srcset="./public/assets/github-light-logo.svg" media="(prefers-color-scheme: dark)" />
+      <source srcset="./public/assets/github-dark-logo.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="./public/assets/github-light-logo.svg" width="36" height="36" alt="GitHub Logo" />
     </picture>
   </a>&nbsp;&nbsp;
 </p>
 
 <br/>
 
-<p align="left">
-  Like it? BTC 3KNtUiFRS344JYYgZcK4WQpPy7ux3yZttn
-</p>
+Like it? BTC 3KNtUiFRS344JYYgZcK4WQpPy7ux3yZttn
