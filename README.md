@@ -1,4 +1,4 @@
-<img src="./public/assets/header-readme-github.png" width="100%" name="top" />
+<img src="./public/assets/header.svg" width="100%" name="top" />
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 * 🌎  Based in [Fort Lauderdale, FL](https://maps.app.goo.gl/wE4wRukRF5hKqtkh6)
 * 💼  See my portfolio at my [LinkedIn](http://www.linkedin.com/in/briannnelson)
 * 📄  Here is my updated [Resume](https://drive.google.com/file/d/1udiO_PHZJjLbHSN67tn-1wR2BKcZU-P3/view)
-* ✉️  Reach me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
+* 📫  Reach me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
 
 ## 🛠️ Tech Stack
 
