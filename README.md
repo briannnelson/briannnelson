@@ -1,4 +1,8 @@
-<img src="./public/assets/header.svg" width="100%" name="top" />
+<picture name="top">
+  <source srcset="./public/assets/header-light.svg" media="(prefers-color-scheme: light)" />
+  <source srcset="./public/assets/header-dark.svg" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
+  <img srcset="./public/assets/header-dark.svg" width="100%" alt="Twitter (X) Logo" />
+</picture>
 
 <div align="center">
 
@@ -143,8 +147,6 @@
       <img src="./public/assets/lottie-logo.svg" width="28" height="28" alt="Lottie Logo" />
     </a>
   </p>
-
-<br>
 
 <!-- Right Column -->
 <td valign="top" width="50%">
