@@ -12,7 +12,7 @@
 </div>
 <br>
 
-<img align='right' src="./public/assets/software-egineer.svg" height="135">
+<img align='right' src="./public/assets/software-engineer.svg" height="135">
 
 * 🌎  Based in [Fort Lauderdale, FL](https://maps.app.goo.gl/wE4wRukRF5hKqtkh6)
 * 💼  See my portfolio at my [LinkedIn](http://www.linkedin.com/in/briannnelson)
