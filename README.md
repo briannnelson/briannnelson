@@ -12,10 +12,13 @@
 </div>
 <br>
 
+<img align='right' src="./public/assets/software-egineer.svg" height="116">
+
 * 🌎  Based in [Fort Lauderdale, FL](https://maps.app.goo.gl/wE4wRukRF5hKqtkh6)
 * 💼  See my portfolio at my [LinkedIn](http://www.linkedin.com/in/briannnelson)
 * 📄  Here is my updated [Resume](https://drive.google.com/file/d/1udiO_PHZJjLbHSN67tn-1wR2BKcZU-P3/view)
 * 📫  Reach me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
+* 🌱  I’m currently learning about [Meta's Llama LLM](https://github.com/meta-llama/llama3)
 
 ## 🛠️ Tech Stack
 
