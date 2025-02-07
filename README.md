@@ -20,7 +20,7 @@
 * 💼  See my portfolio at my [LinkedIn](http://www.linkedin.com/in/briannnelson)
 * 📄  Here is my updated [Resume](https://drive.google.com/file/d/1udiO_PHZJjLbHSN67tn-1wR2BKcZU-P3/view)
 * 📫  Reach me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
-* 🌱  Currently learning about [Llama LLM](https://github.com/meta-llama/llama3)
+* 🌱  Currently learning about **Llama LLM**
 
 ## 🛠️ Tech Stack
 
