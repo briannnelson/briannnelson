@@ -262,9 +262,9 @@
 
 <a href="https://github.com/briannnelson#-stats" target="_blank" rel="noreferrer">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=briannnelson&layout=compact&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=briannnelson&layout=compact&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=briannnelson&layout=compact&theme=github_dark&hide_border=true" alt="Brian Nelson's Most Used Languages" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=briannnelson&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=briannnelson&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=briannnelson&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" alt="Brian Nelson's Most Used Languages" />
   </picture>
 </a>
 
