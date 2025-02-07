@@ -256,6 +256,13 @@
 </tr>
 </table>
 
+## 📊 Stats
+
+<!-- Light Mode -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=briannnelson&layout=compact&hide_border=true#gh-light-mode-only)
+<!-- Dark Mode -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=briannnelson&layout=compact&theme=github_dark&hide_border=true#gh-dark-mode-only)
+
 ## 🔗 Socials
 
 <p>
