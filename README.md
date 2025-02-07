@@ -258,10 +258,13 @@
 
 ## 📊 Stats
 
-<!-- Light Mode -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=briannnelson&layout=compact&hide_border=true#gh-light-mode-only)
-<!-- Dark Mode -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=briannnelson&layout=compact&theme=github_dark&hide_border=true#gh-dark-mode-only)
+<a href="https://github.com/briannnelson#-stats" target="_blank" rel="noreferrer">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=briannnelson&layout=compact&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=briannnelson&layout=compact&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=briannnelson&layout=compact&theme=github_dark&hide_border=true" alt="Brian Nelson's Most Used Languages" />
+  </picture>
+</a>
 
 ## 🔗 Socials
 
