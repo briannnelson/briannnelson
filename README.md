@@ -1,17 +1,19 @@
-<picture name="top" align="right">
-  <source srcset="./public/assets/header-light.svg" media="(prefers-color-scheme: light)" align="right" />
-  <source srcset="./public/assets/header-dark.svg" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" align="right" />
-  <img srcset="./public/assets/header-dark.svg" width="100%" alt="Twitter (X) Logo" align="right" />
-</picture>
+<a name="top">
+  <picture>
+    <source srcset="./public/assets/header-light.svg" media="(prefers-color-scheme: light)" />
+    <source srcset="./public/assets/header-dark.svg" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
+    <img srcset="./public/assets/header-dark.svg" width="100%" alt="Twitter (X) Logo" />
+  </picture>
+</a>
 
 <div align="center">
 
-# <img src="./public/assets/waving-hand.gif" width="28" height="28" alt="Waving Hand" /> I'm Brian Nelson
+# <a href="#top"><img src="./public/assets/waving-hand.gif" width="28" height="28" alt="Waving Hand" /></a> I'm Brian Nelson
 
 ### A Software Engineer
 </div>
 
-<img align='right' src="./public/assets/software-engineer.svg" height="135">
+<a href="#top"><img align='right' src="./public/assets/software-engineer.svg" height="135"></a>
 
 <br>
 
