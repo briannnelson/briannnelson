@@ -29,7 +29,7 @@
 <!-- Left Column -->
 <td valign="top" width="50%">
 
-<p>
+  <p>
 
   * **Front End**
 
@@ -151,6 +151,10 @@
     <a href="https://airbnb.io/lottie/" target="_blank" rel="noreferrer">
       <img src="./public/assets/lottie-logo.svg" width="28" height="28" alt="Lottie Logo" />
     </a>
+
+    <a href="#tech-stack">
+      <img src="./public/assets/empty-space.png" width="423" height="1" />
+    </a>
   </p>
 
 <!-- Right Column -->
@@ -259,7 +263,7 @@
 
 ## 📊 Stats
 
-<a href="https://github.com/briannnelson#-stats" target="_blank" rel="noreferrer">
+<a href="https://github.com/briannnelson#-stats">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=briannnelson&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=briannnelson&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
