@@ -22,7 +22,7 @@
 * 📫  Reach me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
 * 🌱  Currently learning about **Llama LLM**
 
-## 🛠️ Tech Stack<a name="tech-stack"></a>
+<h2 name="tech-stack">🛠️ Tech Stack</h2>
 
 <table>
 <tr>
@@ -261,9 +261,9 @@
 </tr>
 </table>
 
-## 📊 Stats
+<h2 name="stats">📊 Stats</h2>
 
-<a href="#-stats">
+<a href="#stats">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=briannnelson&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=briannnelson&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
@@ -271,7 +271,7 @@
   </picture>
 </a>
 
-## 🔗 Socials
+<h2 name="socials">🔗 Socials</h2>
 
 <p>
   <!-- LinkedIn -->
@@ -315,4 +315,4 @@
 
 <sub>_**Like it?** BTC 3KNtUiFRS344JYYgZcK4WQpPy7ux3yZttn_</sub>
 
-<a href="#top"><img src="./public/assets/footer.svg" width="100%" alt="Footer" /></a>
+<a href="#socials"><img src="./public/assets/footer.svg" width="100%" alt="Footer" /></a>
