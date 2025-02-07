@@ -310,6 +310,6 @@
 
 <br>
 
-_**Like it?** BTC 3KNtUiFRS344JYYgZcK4WQpPy7ux3yZttn_
+<sub>_**Like it?** BTC 3KNtUiFRS344JYYgZcK4WQpPy7ux3yZttn_</sub>
 
 <a href="#top"><img src="./public/assets/footer.svg" width="100%" alt="Footer" /></a>
