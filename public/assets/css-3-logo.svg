@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="svg3476" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 329.1 329.1">
-  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
   <defs>
     <style>
       .st0 {
@@ -21,10 +21,12 @@
     </style>
   </defs>
   <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:current-layer="layer1" inkscape:cx="181.367" inkscape:cy="256" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="704" inkscape:window-maximized="1" inkscape:window-width="1366" inkscape:window-x="0" inkscape:window-y="27" inkscape:zoom="0.35" pagecolor="#ffffff" showgrid="false"/>
-  <polygon id="polygon2989" class="st0" points="309.65 0 283.25 296.2 164.35 329.1 45.85 296.2 19.45 0 309.65 0"/>
-  <polygon id="polygon2991" class="st3" points="260.55 277.3 283.15 24.2 164.55 24.2 164.55 303.9 260.55 277.3"/>
-  <polygon id="polygon2993" class="st2" points="79.95 134.1 83.25 170.4 164.55 170.4 164.55 134.1 79.95 134.1"/>
-  <polygon id="polygon2995" class="st2" points="164.55 60.5 164.45 60.5 73.45 60.5 76.75 96.9 164.55 96.9 164.55 60.5"/>
-  <polygon id="polygon2997" class="st2" points="164.55 266.2 164.55 228.4 164.35 228.5 123.95 217.5 121.35 188.6 101.65 188.6 84.85 188.6 89.95 245.6 164.35 266.3 164.55 266.2"/>
-  <polygon id="polygon3005" class="st1" points="209.15 170.4 204.95 217.5 164.45 228.5 164.45 266.3 238.85 245.6 239.45 239.5 247.95 143.8 248.85 134.1 255.45 60.5 164.45 60.5 164.45 96.9 215.65 96.9 212.35 134.1 164.45 134.1 164.45 170.4 209.15 170.4"/>
+  <g>
+    <polygon id="polygon2989" class="st0" points="309.6 0 283.2 296.2 164.4 329.1 45.8 296.2 19.5 0 309.6 0"/>
+    <polygon id="polygon2991" class="st3" points="260.5 277.3 283.1 24.2 164.6 24.2 164.6 303.9 260.5 277.3"/>
+    <polygon id="polygon2993" class="st2" points="79.9 134.1 83.2 170.4 164.6 170.4 164.6 134.1 79.9 134.1"/>
+    <polygon id="polygon2995" class="st2" points="164.6 60.5 164.4 60.5 73.4 60.5 76.8 96.9 164.6 96.9 164.6 60.5"/>
+    <polygon id="polygon2997" class="st2" points="164.6 266.2 164.6 228.4 164.4 228.5 123.9 217.5 121.3 188.6 101.7 188.6 84.8 188.6 89.9 245.6 164.4 266.3 164.6 266.2"/>
+    <polygon id="polygon3005" class="st1" points="209.1 170.4 204.9 217.5 164.4 228.5 164.4 266.3 238.9 245.6 239.4 239.5 247.9 143.8 248.9 134.1 255.4 60.5 164.4 60.5 164.4 96.9 215.6 96.9 212.4 134.1 164.4 134.1 164.4 170.4 209.1 170.4"/>
+  </g>
 </svg>
