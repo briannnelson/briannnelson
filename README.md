@@ -18,9 +18,9 @@
 
 * 🌎  Based in [Fort Lauderdale, FL](https://maps.app.goo.gl/wE4wRukRF5hKqtkh6)
 * 💼  See my portfolio at my [LinkedIn](http://www.linkedin.com/in/briannnelson)
-* 📄  Here is my updated [Resume](https://drive.google.com/file/d/1udiO_PHZJjLbHSN67tn-1wR2BKcZU-P3/view)
+* 📄  Here is my updated [Resume](https://drive.google.com/file/d/14bCEdSh6JsamV84_JOzfepT9uIa98eho/view)
 * 📫  Reach me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
-* 🌱  Currently learning about **Llama LLM**
+* 🌱  Currently learning about [shadcn/ui](https://github.com/shadcn/ui)
 
 <h2 name="tech-stack">🛠️ Tech Stack</h2>
 
@@ -61,6 +61,11 @@
     <!-- Sass -->
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
       <img src="./public/assets/sass-logo.svg" width="28" height="28" alt="Sass Logo"/>
+    </a>
+    &nbsp;
+    <!-- Tailwind CSS -->
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img src="./public/assets/tailwind-logo.svg" width="28" height="28" alt="Tailwind CSS Logo"/>
     </a>
     &nbsp;
     <!-- jQuery -->
