@@ -17,10 +17,10 @@
 <a href="#top"><img align='right' src="./public/assets/software-engineer.svg" height="135"></a>
 
 * 🌎  Based in [Fort Lauderdale, FL](https://maps.app.goo.gl/wE4wRukRF5hKqtkh6)
-* 💼  See my portfolio at my [LinkedIn](http://www.linkedin.com/in/briannnelson)
+* 💼  See my portfolio at [brian-nelson.dev](http://brian-nelson.dev)
 * 📄  Here is my updated [Resume](https://drive.google.com/file/d/14bCEdSh6JsamV84_JOzfepT9uIa98eho/view)
 * 📫  Reach me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
-* 🌱  Currently learning about [shadcn/ui](https://github.com/shadcn/ui)
+* 🌱  Currently learning [shadcn/ui](https://github.com/shadcn/ui)
 
 <h2 name="tech-stack">🛠️ Tech Stack</h2>
 
