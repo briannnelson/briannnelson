@@ -307,14 +307,14 @@
   </a>
   &nbsp;
   <!-- Twitter -->
-  <a href="https://twitter.com/briannnelson" target="_blank" rel="noreferrer">
+  <!-- <a href="https://twitter.com/briannnelson" target="_blank" rel="noreferrer">
     <picture>
       <source srcset="./public/assets/x-twitter-light-logo.svg" media="(prefers-color-scheme: dark)" />
       <source srcset="./public/assets/x-twitter-dark-logo.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img src="./public/assets/x-twitter-light-logo.svg" width="28" height="28" alt="Twitter (X) Logo" />
     </picture>
   </a>
-  &nbsp;
+  &nbsp; -->
   <!-- GitHub -->
   <a href="https://github.com/briannnelson" target="_blank" rel="noreferrer">
     <picture>
