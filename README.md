@@ -18,7 +18,7 @@
 
 * 🌎  Based in [Fort Lauderdale, FL](https://maps.app.goo.gl/wE4wRukRF5hKqtkh6)
 * 💼  See my portfolio at [brian-nelson.dev](http://brian-nelson.dev)
-* 📄  Here is my updated [Resume](https://drive.google.com/file/d/14bCEdSh6JsamV84_JOzfepT9uIa98eho/view)
+* 📄  Here is my updated [Resume](https://brian-nelson.dev/resume.pdf)
 * 📫  Reach me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
 * 🌱  Currently learning [shadcn/ui](https://github.com/shadcn/ui)
 
