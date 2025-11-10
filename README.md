@@ -20,7 +20,6 @@
 * 💼  See my portfolio at [brian-nelson.dev](http://brian-nelson.dev)
 * 📄  Here is my updated [Resume](https://brian-nelson.dev/resume.pdf)
 * 📫  Reach me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
-* 🌱  Currently learning [shadcn/ui](https://github.com/shadcn/ui)
 
 <h2 name="tech-stack">🛠️ Tech Stack</h2>
 
