@@ -19,7 +19,7 @@
 * 🌎  Based in [Fort Lauderdale, FL](https://maps.app.goo.gl/wE4wRukRF5hKqtkh6)
 * 💼  See my portfolio at [brian-nelson.dev](http://brian-nelson.dev)
 * 📄  Here is my updated [Resume](https://brian-nelson.dev/resume.pdf)
-* 📫  Reach me at [brian8nelson@gmail.com](mailto:brian8nelson@gmail.com)
+* 📫  Reach me at [contact@brian-nelson.dev](mailto:contact@brian-nelson.dev)
 
 <h2 name="tech-stack">🛠️ Tech Stack</h2>
 
@@ -297,7 +297,7 @@
   </a>
   &nbsp;
   <!-- Email -->
-  <a href="mailto:brian8nelson@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:contact@brian-nelson.dev" target="_blank" rel="noreferrer">
     <picture>
       <source srcset="./public/assets/email-light-icon.svg" media="(prefers-color-scheme: dark)" />
       <source srcset="./public/assets/email-dark-icon.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
