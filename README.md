@@ -291,7 +291,7 @@
   <a href="https://brian-nelson.dev" target="_blank" rel="noreferrer">
     <picture>
       <source srcset="./public/assets/link-icon-light.svg" media="(prefers-color-scheme: dark)" />
-      <source srcset="./public/assets/link-icon.dark.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <source srcset="./public/assets/link-icon-dark.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img src="./public/assets/link-icon-light.svg" width="28" height="28" alt="Portfolio" />
     </picture>
   </a>
