@@ -265,7 +265,7 @@
 </tr>
 </table>
 
-<h2 name="stats">📊 Stats</h2>
+<!-- <h2 name="stats">📊 Stats</h2>
 
 <a href="#stats">
   <picture>
@@ -273,7 +273,7 @@
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=briannnelson&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=briannnelson&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" alt="Brian Nelson's Most Used Languages" />
   </picture>
-</a>
+</a> -->
 
 <h2 name="socials">🔗 Socials</h2>
 
