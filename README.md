@@ -31,14 +31,14 @@
       <img src="./public/assets/javascript-logo.svg" width="28" height="28" alt="JavaScript Logo"/>
     </a>
     &nbsp;
-    <!-- React -->
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="./public/assets/react-logo.svg" width="28" height="28" alt="React.js Logo"/>
-    </a>
-    &nbsp;
     <!-- TypeScript -->
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img src="./public/assets/typescript-logo.svg" width="28" height="28" alt="TypeScript Logo"/>
+    </a>
+    &nbsp;
+    <!-- React -->
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="./public/assets/react-logo.svg" width="28" height="28" alt="React.js Logo"/>
     </a>
     &nbsp;
     <!-- HTML5 -->
@@ -101,6 +101,11 @@
         <source srcset="./public/assets/github-dark-logo.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="./public/assets/github-light-logo.svg" width="28" height="28" alt="GitHub Logo" />
       </picture>
+    </a>
+    &nbsp;
+    <!-- Bitbucket -->
+    <a href="https://bitbucket.org/product/" target="_blank" rel="noreferrer">
+      <img src="./public/assets/bitbucket-logo.svg" width="28" height="28" alt="Bitbucket Logo" />
     </a>
     &nbsp;
     <!-- Gitkraken -->
@@ -223,6 +228,11 @@
       <img src="./public/assets/visual-studio-logo.svg" width="28" height="28" alt="Visual Studio Logo" />
     </a>
     &nbsp;
+    <!-- Antigravity -->
+    <a href="https://antigravity.google/" target="_blank" rel="noreferrer">
+      <img src="./public/assets/antigravity-logo.svg" width="28" height="28" alt="Antigravity Logo" />
+    </a>
+    &nbsp;
     <!-- Adobe Photoshop -->
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
       <img src="./public/assets/adobe-photoshop-logo.svg" width="28" height="28" alt="Adobe Photoshop Logo" />
@@ -251,6 +261,38 @@
     <!-- Google Lighthouse -->
     <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noreferrer">
       <img src="./public/assets/google-lighthouse-logo.svg" width="28" height="28" alt="Google Lighthouse Logo" />
+    </a>
+    &nbsp;
+    <!-- Playwright -->
+    <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+      <img src="./public/assets/playwright-logo.svg" width="28" height="28" alt="Playwright Logo" />
+    </a>
+    &nbsp;
+
+  * **AI**
+
+    <!-- Claude -->
+    <a href="https://claude.ai/" target="_blank" rel="noreferrer">
+      <img src="./public/assets/claude-logo.svg" width="28" height="28" alt="Claude Logo" />
+    </a>
+    &nbsp;
+    <!-- Gemini -->
+    <a href="https://gemini.google/about/" target="_blank" rel="noreferrer">
+      <img src="./public/assets/gemini-logo.svg" width="28" height="28" alt="Gemini Logo" />
+    </a>
+    &nbsp;
+    <!-- OpenAI -->
+    <a href="https://openai.com/" target="_blank" rel="noreferrer">
+      <picture>
+        <source srcset="./public/assets/openai-logo-white.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="./public/assets/openai-logo-black.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="./public/assets/openai-logo-white.svg" width="28" height="28" alt="OpenAI Logo" />
+      </picture>
+    </a>
+    &nbsp;
+    <!-- Document Analysis Intelligence -->
+    <a href="https://azure.microsoft.com/en-us/products/ai-foundry/tools/document-intelligence" target="_blank" rel="noreferrer">
+      <img src="./public/assets/azure-document-analysis-intelligence-logo.svg" width="28" height="28" alt="Document Analysis Intelligence Logo" />
     </a>
     &nbsp;
   </p>
