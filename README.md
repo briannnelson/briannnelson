@@ -1,10 +1,4 @@
-<a name="top">
-  <picture>
-    <source srcset="./public/assets/header-light.svg" media="(prefers-color-scheme: light)" />
-    <source srcset="./public/assets/header-dark.svg" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
-    <img srcset="./public/assets/header-dark.svg" width="100%" alt="Twitter (X) Logo" />
-  </picture>
-</a>
+<a name="top"></a>
 
 <div align="center">
 
@@ -327,5 +321,3 @@
 <br>
 
 <sub>_**Like it?** BTC 3KNtUiFRS344JYYgZcK4WQpPy7ux3yZttn_</sub>
-
-<a href="#socials"><img src="./public/assets/footer.svg" width="100%" alt="Footer" /></a>
