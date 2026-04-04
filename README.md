@@ -160,6 +160,7 @@
       <img src="./public/assets/empty-space.png" width="423" height="1" />
     </a>
   </p>
+</td>
 
 <!-- Right Column -->
 <td valign="top" width="50%">
