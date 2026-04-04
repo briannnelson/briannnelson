@@ -16,7 +16,7 @@
 * 📫  Reach me at [contact@brian-nelson.dev](mailto:contact@brian-nelson.dev)
 * 🌱  I'm currently learning Agentic Workflows
 
-<h2 name="tech-stack"><img src="./public/assets/tech-stack.svg" width="24" height="24" align="absmiddle" style="margin-right: 4px; margin-bottom: 3px;" /> Tech Stack</h2>
+<h2 name="tech-stack"><img src="./public/assets/tech-stack.svg" width="24" height="24" align="absmiddle" />&nbsp;&nbsp;Tech Stack</h2>
 
 <table>
 <tr>
@@ -298,7 +298,7 @@
 </tr>
 </table>
 
-<h2 name="stats"><img src="./public/assets/stats.svg" width="24" height="24" align="absmiddle" style="margin-right: 4px; margin-bottom: 3px;" /> Stats</h2>
+<h2 name="stats"><img src="./public/assets/stats.svg" width="24" height="24" align="absmiddle" />&nbsp;&nbsp;Stats</h2>
 
 <a href="#stats">
   <picture>
@@ -308,7 +308,7 @@
   </picture>
 </a>
 
-<h2 name="socials"><img src="./public/assets/socials.svg" width="24" height="24" align="absmiddle" style="margin-right: 4px; margin-bottom: 3px;" /> Socials</h2>
+<h2 name="socials"><img src="./public/assets/socials.svg" width="24" height="24" align="absmiddle" />&nbsp;&nbsp;Socials</h2>
 
 <p>
   <!-- LinkedIn -->
