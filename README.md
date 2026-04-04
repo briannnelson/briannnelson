@@ -253,11 +253,6 @@
       <img src="./public/assets/wordpress-logo.svg" width="28" height="28" alt="WordPress Logo" />
     </a>
     &nbsp;
-    <!-- Zapier -->
-    <a href="https://zapier.com/" target="_blank" rel="noreferrer">
-      <img src="./public/assets/zapier-logo.svg" width="28" height="28" alt="Zapier Logo" />
-    </a>
-    &nbsp;
     <!-- Google Lighthouse -->
     <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noreferrer">
       <img src="./public/assets/google-lighthouse-logo.svg" width="28" height="28" alt="Google Lighthouse Logo" />
