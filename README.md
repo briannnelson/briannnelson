@@ -14,6 +14,7 @@
 * 💼  See my portfolio at [brian-nelson.dev](http://brian-nelson.dev)
 * 📄  Here is my updated [Resume](https://brian-nelson.dev/resume.pdf)
 * 📫  Reach me at [contact@brian-nelson.dev](mailto:contact@brian-nelson.dev)
+* 🌱  I'm currently learning Agentic Workflows
 
 <h2 name="tech-stack">🛠️ Tech Stack</h2>
 
