@@ -308,7 +308,7 @@
   </picture>
 </a>
 
-<h2 name="socials"><img src="./public/assets/socials.svg" width="24" height="24" align="absmiddle" />&nbsp;&nbsp;Socials</h2>
+<h2 name="socials"><img src="./public/assets/socials.svg" width="24" height="24" align="absmiddle" />&nbsp;&nbsp;Connect</h2>
 
 <p>
   <!-- LinkedIn -->
