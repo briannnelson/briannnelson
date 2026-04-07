@@ -22,6 +22,10 @@
 * 📫  Reach me at [contact@brian-nelson.dev](mailto:contact@brian-nelson.dev)
 * 🌱  I'm currently learning agentic workflows
 
+<h2 name="about-me"><img src="./public/assets/about-me.svg" width="24" height="24" align="absmiddle" />&nbsp;&nbsp;About Me</h2>
+
+With 13+ years of experience developing web applications across a wide range of technologies, I’m passionate about delivering scalable solutions. I’m a fast learner who loves staying ahead of industry trends and implementing best practices.
+
 <h2 name="tech-stack"><img src="./public/assets/tech-stack.svg" width="24" height="24" align="absmiddle" />&nbsp;&nbsp;Tech Stack</h2>
 
 <table>
