@@ -1,11 +1,8 @@
 <a name="top"></a>
 
-<div align="center">
-
 # <a href="#top"><img src="./public/assets/waving-hand.gif" width="28" height="28" alt="Waving Hand" /></a> I'm Brian Nelson
 
 ### A Software Engineer
-</div>
 
 <br>
 <a href="#top">
@@ -16,11 +13,11 @@
   </picture>
 </a>
 
-* 🌎  Based in [Fort Lauderdale, FL](https://maps.app.goo.gl/wE4wRukRF5hKqtkh6)
-* 💼  See my portfolio at [brian-nelson.dev](http://brian-nelson.dev)
-* 📄  Here is my updated [resume](https://brian-nelson.dev/resume.pdf)
-* 📫  Reach me at [contact@brian-nelson.dev](mailto:contact@brian-nelson.dev)
-* 🌱  I'm currently learning agentic workflows
+* <img src="./public/assets/globe-icon-micro.svg" width="16" height="16" align="absmiddle" />&nbsp;&nbsp;Based in [Fort Lauderdale, FL](https://maps.app.goo.gl/wE4wRukRF5hKqtkh6)
+* <img src="./public/assets/portfolio-icon-micro.svg" width="16" height="16" align="absmiddle" />&nbsp;&nbsp;See my portfolio at [brian-nelson.dev](http://brian-nelson.dev)
+* <img src="./public/assets/resume-icon-micro.svg" width="16" height="16" align="absmiddle" />&nbsp;&nbsp;Here is my updated [resume](https://brian-nelson.dev/resume.pdf)
+* <img src="./public/assets/email-icon-micro.svg" width="16" height="16" align="absmiddle" />&nbsp;&nbsp;Reach me at [contact@brian-nelson.dev](mailto:contact@brian-nelson.dev)
+* <img src="./public/assets/sprout-icon-micro.svg" width="16" height="16" align="absmiddle" />&nbsp;&nbsp;I'm currently learning agentic workflows
 
 <h2 name="about-me"><img src="./public/assets/about-me.svg" width="24" height="24" align="absmiddle" />&nbsp;&nbsp;About Me</h2>
 
