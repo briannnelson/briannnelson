@@ -306,13 +306,23 @@
 
 <h2 name="stats"><img src="./public/assets/stats.svg" width="24" height="24" align="absmiddle" />&nbsp;&nbsp;Stats</h2>
 
-<a href="#stats">
-  <picture>
-    <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=briannnelson&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=briannnelson&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=briannnelson&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" alt="Brian Nelson's Most Used Languages" />
-  </picture>
-</a>
+<p align="left">
+  <a href="#stats">
+    <picture>
+      <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=briannnelson&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=briannnelson&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=briannnelson&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" alt="Brian Nelson's Most Used Languages" />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="#stats">
+    <picture>
+      <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=briannnelson&theme=dark&hide_border=true&background=00000000" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=briannnelson&theme=default&hide_border=true&background=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=briannnelson&theme=dark&hide_border=true&background=00000000" alt="Brian Nelson's GitHub Streak" />
+    </picture>
+  </a>
+</p>
 
 <h2 name="socials"><img src="./public/assets/socials.svg" width="24" height="24" align="absmiddle" />&nbsp;&nbsp;Connect</h2>
 
