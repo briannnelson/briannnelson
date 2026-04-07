@@ -323,16 +323,6 @@
     </picture>
   </a>
 
-<h2 name="activity">📈&nbsp;&nbsp;Activity</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/briannnelson/briannnelson/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/briannnelson/briannnelson/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/briannnelson/briannnelson/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
 <h2 name="socials"><img src="./public/assets/socials.svg" width="24" height="24" align="absmiddle" />&nbsp;&nbsp;Connect</h2>
 
 <p>
