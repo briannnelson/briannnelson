@@ -8,7 +8,13 @@
 </div>
 
 <br>
-<a href="#top"><img align='right' src="./public/assets/software-engineer.svg" height="135"></a>
+<a href="#top">
+  <picture>
+    <source srcset="./public/assets/software-engineer-dark.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="./public/assets/software-engineer-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img align='right' src="./public/assets/software-engineer-light.svg" height="135" />
+  </picture>
+</a>
 
 * 🌎  Based in [Fort Lauderdale, FL](https://maps.app.goo.gl/wE4wRukRF5hKqtkh6)
 * 💼  See my portfolio at [brian-nelson.dev](http://brian-nelson.dev)
