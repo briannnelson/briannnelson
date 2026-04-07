@@ -24,7 +24,7 @@
 
 <h2 name="tech-stack"><img src="./public/assets/tech-stack.svg" width="24" height="24" align="absmiddle" />&nbsp;&nbsp;Tech Stack</h2>
 
-<table>
+<table> 
 <tr>
 <!-- Left Column -->
 <td valign="top" width="50%">
