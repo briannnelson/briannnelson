@@ -375,4 +375,8 @@ With 13+ years of experience developing web applications across a wide range of 
 
 <br>
 
+<div align="right">
+
 <sub>_**Like it?** BTC 16J1sxiechVpFaSnAiUF4AHnLKeiftFtcC_</sub>
+
+</div>
